@@ -43,7 +43,8 @@ This is a simple and elegant **Job Application Form** created with HTML and CSS.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Job-Application-Form.git
+  git clone https://github.com/mosin1223/Job-Application-Form.git
+
    ```
    
 2. Open the `index.html` file in your preferred web browser to view the application.
