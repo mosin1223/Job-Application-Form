@@ -12,7 +12,7 @@ This is a simple and elegant **Job Application Form** created with HTML and CSS.
 
 ## Preview
 
-![Job Application Form](./screenshot.png)
+![Job Application Form](https://github.com/mosin1223/Job-Application-Form/blob/main/Screenshot%202025-07-14%20161210.png)
 
 ## Technologies Used
 
