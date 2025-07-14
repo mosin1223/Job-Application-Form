@@ -62,7 +62,10 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Contact me
++923174748299
+Email:cadetmohsan@gmail.com
+Linkden:https://www.linkedin.com/in/mohsin-ali-54a9b2319/
 
 For any questions or feedback, please feel free to reach out!
 
